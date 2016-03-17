@@ -1,0 +1,2 @@
+# EasyImagePicker
+一行代码搞定图片选择控制器UIImagepicker，抛开代理什么的都不用管
